@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item android:title="List" android:icon="@drawable/ic_baseline_view_list_24" android:id="@id/breedList"/>
+    <item
+        android:id="@id/favourites"
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:title="Favorite" />
+    <item android:title="Analysis" android:icon="@drawable/ic_baseline_image_search_24" android:id="@id/upload_Image"/>
+</menu>
